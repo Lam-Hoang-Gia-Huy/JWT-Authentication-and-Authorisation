@@ -1,9 +1,9 @@
-package com.example.JWTImplemenation.auth;
+package com.example.JWTImplemenation.Auth;
 
 import com.example.JWTImplemenation.Repository.UserRepository;
 import com.example.JWTImplemenation.Service.JwtService;
-import com.example.JWTImplemenation.user.Role;
-import com.example.JWTImplemenation.user.User;
+import com.example.JWTImplemenation.User.Role;
+import com.example.JWTImplemenation.User.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

@@ -1,4 +1,4 @@
-package com.example.JWTImplemenation.user;
+package com.example.JWTImplemenation.User;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

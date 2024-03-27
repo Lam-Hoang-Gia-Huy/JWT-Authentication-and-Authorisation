@@ -1,6 +1,6 @@
 package com.example.JWTImplemenation.Repository;
 
-import com.example.JWTImplemenation.user.User;
+import com.example.JWTImplemenation.User.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
